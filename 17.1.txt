@@ -1,0 +1,16 @@
+1) Hyper Text Transfer Protocol - Protocol on how data is sent/received to/from a server.
+2) Uniform Resource Locator - An address to an internet source
+3) Domain Name System - Converts URLs to IP addresses, or returns an error if none is found
+4) Query strings enable you to key-value pairs at the end of the URL. Separated with '&'
+5) GET - Request data from server without any side effects
+    POST - Request data from server that changes certain data (has side effects) 
+6) A request to a server following HTTP protocol
+7) The server responding to a request following HTTP Protocol
+8) Headers provide feedback about requests and responses
+	-Cookie, Accept, etc.
+	-Cache-Control, Set-Cookie, etc.
+9) DNS turns the URL into an IP address
+    Browser makes requests to the IP address
+    Server give response to the request, with a status code
+    Browser collects all resources needed for the DOM in the retrieved HTML
+    
